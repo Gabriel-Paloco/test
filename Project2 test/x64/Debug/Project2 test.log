@@ -1,0 +1,4 @@
+﻿  Origem.c
+C:\Users\GABRIEL PALOCO\source\repos\Project2 test\Project2 test\Origem.c(32,5): warning C4013: 'gets' indefinido; assumindo extern retornando int
+C:\Users\GABRIEL PALOCO\source\repos\Project2 test\Project2 test\Origem.c(63,5): warning C4013: 'getch' indefinido; assumindo extern retornando int
+  Project2 test.vcxproj -> C:\Users\GABRIEL PALOCO\source\repos\Project2 test\x64\Debug\Project2 test.exe
